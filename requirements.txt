@@ -1,5 +1,6 @@
 altair==4.1.0
-argon2-cffi @ file:///C:/ci/argon2-cffi_1613037829118/work
+argon2-cffi==21.3.0
+argon2-cffi-bindings==21.2.0
 async-generator @ file:///home/ktietz/src/ci/async_generator_1611927993394/work
 attrs @ file:///opt/conda/conda-bld/attrs_1642510447205/work
 backcall @ file:///C:/miniconda3/conda-bld/backcall_1761744905541/work
